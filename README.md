@@ -14,15 +14,15 @@ Feature 'Time' contains the seconds elapsed between each transaction and the fir
 
 Feature analysis and selection using: 
 ANOVA analysis(for identifying relationship between the continuous and categorical target)
-feature selection techniques using Lasso and Random-Forests feature importance
+feature selection techniques using Lasso and Random-Forests feature importance.
 
-Models:
-Decision-Trees
-Random-Forests
-Logistic-Regression
-K-Nearest-Neighbours
-Support-Vector-Machines
-Multinomial-Naive Bayes
-Deep-Neural-Network using Keras
+Model development:
+Decision-Trees,
+Random-Forests,
+Logistic-Regression,
+K-Nearest-Neighbours,
+Support-Vector-Machines,
+Gaussian Naive-Bayes,
+Deep-Neural-Network using Keras.
 
 In the end have compared the error metrics of all the above models like accuracy-score and False-Negative-Rate.
